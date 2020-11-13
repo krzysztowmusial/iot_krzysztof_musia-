@@ -1,21 +1,18 @@
 ﻿using lab2.Rest.Models;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace lab2.Rest.Context
 {
-    class AzureDbContext : DbContext
+    public class AzureDbContext : DbContext
     {
-        public AzureDbContext(DbContextOptions<AzureDbContext> options) : base(options)
+        public AzureDbContext(DbContextOptions options) : base(options)
         {
 
         }
-        protected AzureDbContext()
-        {
+        // protected AzureDbContext()
+        // {
 
-        }
+        // }
         public DbSet<Person> People { get; set; }
     }
 }

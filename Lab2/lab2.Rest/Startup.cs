@@ -27,13 +27,20 @@ namespace lab2.Rest
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            // services.AddControllers();
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-            var connectionString = Configuration.GetConnectionString("AzureDb");
-            services.AddDbContext<AzureDbContext>(options =>
+            services.AddControllers();
+            services.AddDbContext<AzureDbContext>(options => 
             {
+                var connectionString = Configuration.GetConnectionString("AzureDb");
                 options.UseSqlServer(connectionString);
             });
+
+
+            // services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            // var connectionString = Configuration.GetConnectionString("AzureDb");
+            // services.AddDbContext<AzureDbContext>(options =>
+            // {
+            //     options.UseSqlServer(connectionString);
+            // });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fkr48vqPIhozrY4q9VLb0pIpkOMAJAwJi46E3kzrPRSEpqSs1WfAsO2mtTIJPFeVGNMT7ovPqqU9w3ACb8Hcuw==",
+  "dgSpecHash": "580LcPwH5d3EF5EayVOeVEm+5poqH85oHQZHNvpfo5Dl/In0VsSlDfeYLmNFBJNdrgb3+QswSGamARE3BGb1xw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\krzys\\Desktop\\iot\\lab2\\lab2.Rest\\lab2.Rest.csproj",
+  "projectFilePath": "C:\\Users\\krzys\\Desktop\\iot\\Lab2\\lab2.Rest\\lab2.Rest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\krzys\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\krzys\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
