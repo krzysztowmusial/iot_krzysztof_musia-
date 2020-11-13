@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\krzys\\Desktop\\iot\\Lab2\\lab2.Rest\\lab2.Rest.csproj": {}
+    "C:\\Users\\krzys\\Desktop\\iot\\lab2\\lab2.Rest\\lab2.Rest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\krzys\\Desktop\\iot\\Lab2\\lab2.Rest\\lab2.Rest.csproj": {
+    "C:\\Users\\krzys\\Desktop\\iot\\lab2\\lab2.Rest\\lab2.Rest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\krzys\\Desktop\\iot\\Lab2\\lab2.Rest\\lab2.Rest.csproj",
+        "projectUniqueName": "C:\\Users\\krzys\\Desktop\\iot\\lab2\\lab2.Rest\\lab2.Rest.csproj",
         "projectName": "lab2.Rest",
-        "projectPath": "C:\\Users\\krzys\\Desktop\\iot\\Lab2\\lab2.Rest\\lab2.Rest.csproj",
+        "projectPath": "C:\\Users\\krzys\\Desktop\\iot\\lab2\\lab2.Rest\\lab2.Rest.csproj",
         "packagesPath": "C:\\Users\\krzys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\krzys\\Desktop\\iot\\Lab2\\lab2.Rest\\obj\\",
+        "outputPath": "C:\\Users\\krzys\\Desktop\\iot\\lab2\\lab2.Rest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -41,6 +41,40 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
