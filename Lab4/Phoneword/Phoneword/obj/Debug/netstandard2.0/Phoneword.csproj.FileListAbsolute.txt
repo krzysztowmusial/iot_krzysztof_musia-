@@ -1,0 +1,12 @@
+/Users/krzysztofmusial/Desktop/mslearn-xamarin-forms-ui-with-xaml-master/src/exercise2/final/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.deps.json
+/Users/krzysztofmusial/Desktop/mslearn-xamarin-forms-ui-with-xaml-master/src/exercise2/final/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.dll
+/Users/krzysztofmusial/Desktop/mslearn-xamarin-forms-ui-with-xaml-master/src/exercise2/final/Phoneword/Phoneword/bin/Debug/netstandard2.0/Phoneword.pdb
+/Users/krzysztofmusial/Desktop/mslearn-xamarin-forms-ui-with-xaml-master/src/exercise2/final/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.csprojAssemblyReference.cache
+/Users/krzysztofmusial/Desktop/mslearn-xamarin-forms-ui-with-xaml-master/src/exercise2/final/Phoneword/Phoneword/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/krzysztofmusial/Desktop/mslearn-xamarin-forms-ui-with-xaml-master/src/exercise2/final/Phoneword/Phoneword/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/krzysztofmusial/Desktop/mslearn-xamarin-forms-ui-with-xaml-master/src/exercise2/final/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.AssemblyInfoInputs.cache
+/Users/krzysztofmusial/Desktop/mslearn-xamarin-forms-ui-with-xaml-master/src/exercise2/final/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.AssemblyInfo.cs
+/Users/krzysztofmusial/Desktop/mslearn-xamarin-forms-ui-with-xaml-master/src/exercise2/final/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.csproj.CoreCompileInputs.cache
+/Users/krzysztofmusial/Desktop/mslearn-xamarin-forms-ui-with-xaml-master/src/exercise2/final/Phoneword/Phoneword/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/krzysztofmusial/Desktop/mslearn-xamarin-forms-ui-with-xaml-master/src/exercise2/final/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.dll
+/Users/krzysztofmusial/Desktop/mslearn-xamarin-forms-ui-with-xaml-master/src/exercise2/final/Phoneword/Phoneword/obj/Debug/netstandard2.0/Phoneword.pdb
